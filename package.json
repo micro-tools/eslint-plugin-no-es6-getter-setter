@@ -1,0 +1,19 @@
+{
+    "name": "eslint-plugin-no-es6-getter-setter",
+    "version": "0.1.0",
+    "description": "eslint plugins used by micro-tools and nodefluent",
+    "main": "index.js",
+    "scripts": {
+        "test": "node tests/lib/rules/no-es6-getter-setter"
+    },
+    "keywords": [
+        "eslint",
+        "eslintplugin"
+    ],
+    "author": "micro-tools",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "eslint": "^4.0.0"
+    }
+}
